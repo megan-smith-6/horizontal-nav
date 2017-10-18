@@ -19,8 +19,14 @@ body {
   color: #fff;
 }
 
+ul {
+  margin: 0;
+}
+
 h1 {
-  font-family: Bevan, cursive;
+  display: block;
+  font-family: Bevan, serif;
+  margin: .3em;
 }
 
 a {
@@ -36,6 +42,7 @@ a {
 
 nav ul {
   list-style-type: none;
+  padding: 0;
 }
 
 nav li {
