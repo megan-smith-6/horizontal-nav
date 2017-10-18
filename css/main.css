@@ -38,6 +38,10 @@ nav ul {
   list-style-type: none;
 }
 
+nav li {
+  display: inline;
+}
+
 a:hover {
   background-color: #f33;
   color: #fff;
