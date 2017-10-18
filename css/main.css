@@ -20,19 +20,20 @@ body {
 }
 
 ul {
-  margin: 0;
+  padding: 0;
 }
 
 h1 {
   display: block;
   font-family: Bevan, serif;
+  padding: 0;
   margin: .3em;
 }
 
 a {
   display: inline-block;
   padding: .6em .5em .75em;
-  margin: .3em;
+  margin: .25em;
   background-color: #713837;
   text-align: center;
   color: #fff;
@@ -42,7 +43,8 @@ a {
 
 nav ul {
   list-style-type: none;
-  padding: 0;
+  padding: 0 0 .6em;
+  margin: 0;
 }
 
 nav li {
