@@ -2,7 +2,7 @@ html {
   box-sizing: border-box;
   background-color: #dbd6cf;
   font-family: sans-serif;
-  line-height: 1.5;
+  line-height: 1.2;
 }
 
 *, *::before, *::after {
@@ -26,18 +26,18 @@ ul {
 h1 {
   display: block;
   font-family: Bevan, serif;
-  padding: 0;
-  margin: .3em;
+  padding: .48em 0 .035em;
+  margin: 0;
 }
 
 a {
   display: inline-block;
   padding: .6em .5em .75em;
-  margin: .25em;
+  margin: .3em;
   background-color: #713837;
   text-align: center;
   color: #fff;
-  border-radius: 5px;
+  border-radius: 4px;
   text-decoration: none;
 }
 
@@ -48,7 +48,7 @@ nav ul {
 }
 
 nav li {
-  display: inline;
+  display: inline-block;
 }
 
 a:hover {
