@@ -9,10 +9,12 @@ html {
   box-sizing: inherit;
 }
 
-h1 {
+body {
   display: block;
-  margin: .3em;
-  padding: .6em;
+  padding: 0;
+  margin: 0;
   background-color: #79756f;
   text-align: center;
+  border: 3px solid #595652;
+  color: #fff;
 }
