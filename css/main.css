@@ -1,9 +1,18 @@
 html {
   box-sizing: border-box;
+  background-color: #dbd6cf;
   font-family: 'Bevan', sans-serif;
   line-height: 1.5;
 }
 
 *, *::before, *::after {
   box-sizing: inherit;
+}
+
+h1 {
+  display: block;
+  margin: .3em;
+  padding: .6em;
+  background-color: #79756f;
+  text-align: center;
 }
